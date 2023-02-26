@@ -1,12 +1,3 @@
-## Hi there 👋
+![lgo](https://user-images.githubusercontent.com/97555100/221387643-ba0a1ee0-16b0-41c1-9c7e-13f84649d9bb.png)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Asgard Community 🔮
